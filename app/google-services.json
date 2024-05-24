@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "708775594092",
+    "firebase_url": "https://quicknote-7182e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quicknote-7182e",
+    "storage_bucket": "quicknote-7182e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708775594092:android:8b399b1a7c75c90e447049",
+        "android_client_info": {
+          "package_name": "com.example.quicknote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCowqjc6EnHZh0qvSiuSvIfBVmCaA3TdQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
